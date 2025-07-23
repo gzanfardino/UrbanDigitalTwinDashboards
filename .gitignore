@@ -1,0 +1,13 @@
+.venv
+
+# Ignore Python bytecode files
+geo_utilis/__pycache__
+visualization/__pycache__
+pages/__pycache__
+__pycache__
+
+check.py
+check2.py
+check3.py
+check4.py
+data.gml

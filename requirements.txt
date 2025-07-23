@@ -1,0 +1,10 @@
+geopandas
+plotly
+rasterio
+dash
+dash-mantine-components==0.12.1
+dash-leaflet
+requests
+dash-bootstrap-components
+overpy
+fiona
